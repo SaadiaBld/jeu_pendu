@@ -1,6 +1,8 @@
 print ("BIENVENUE AU HANGMAN GAME!\n\nSOYEZ PRÊTS POUR TROUVER LE MOT MYSTERE...\n\n")
 
-#on définit liste de mots dans lesquelles notre programme piochera un mot au hasard, les mots sont en 
+
+
+#on définit deux liste de mots dans lesquelles notre programme piochera un mot au hasard, les mots sont en 
 #minuscule sans accents
 liste_hard= ["incongru", 'pragmatique', "eloquent", "equivoque", "perspicace", "mélancolie", "paradoxe", "ephemere", "ethique", "eclectique", "procrastination", "ambiguite", "réticent", "ingenuité", "exuberance"]
 liste_easy= ["montagne", "robinet", "boulangerie", "vacances", "super-heros", "bracelet", "transport", "chaussure", "chapeau", "discussion", "courrier"]
